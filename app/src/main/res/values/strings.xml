@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JobSchedulerDemo</string>
+    <string name="cancelJob">Cancel Job</string>
+    <string name="jobScheduling_ex">Job Scheduling Example</string>
+    <string name="startJob">Start Job</string>
+    <string name="jobCancelled">Scheduled job is now cancelled.</string>
 </resources>
